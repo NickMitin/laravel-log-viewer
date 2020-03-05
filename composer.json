@@ -1,8 +1,8 @@
 {
     "name": "kolamitin/laravel-log-viewer",
     "description": "Allows to view Laravel log in a pretty way",
-    "type": "library",
-    "license": "gpl",
+	"type": "laravel-package",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nick Mitin",
